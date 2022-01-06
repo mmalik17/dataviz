@@ -6,12 +6,14 @@
 <div>
 <img src="https://github.com/mmalik17/dataviz/blob/main/images/Renewable-Energy.jpeg" width="300" height="200" align='right'>
 </div>
+
   
 This visualization dashboard is created based on the data from Ember climate organization that I found from MakeOver Monday challenge. It shows the trend of renewable energy generation in Europe, country ranking, and portion of energy source generation. The main insight is during 2010-2020, the portion/share of renewable energy generation in Europe is getting higher while the fossil fuel generation is getting lower. 
 
 Beside showing the data over Europe, I also provide the data of trend and portion in every single country in Europe. To access that, just click the dropdown between the word ‘Area’. 
 
-<a href="https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2" style=background-color:rgba(255,0,0,1)> View </a>
+[<div><img src="https://github.com/mmalik17/dataviz/blob/main/images/test%20button.jpg" width="150" height="35"></div>](https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2)
+
 
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2)
 
