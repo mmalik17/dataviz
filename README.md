@@ -22,6 +22,8 @@ Beside showing the data over Europe, I also provide the data of trend and portio
 Discount is one of the strategy to increase sales. However, too much discount would eliminate the profit, or even make a big loss. Hence, for evaluating sales performance, it is needed to identify which discount that would eliminate the profit or make a big loss. 
 This dashboard is based on sample superstore dataset, the data bank that provide the sales data of sample superstore in US. In this visualization, I design the dashboard the overview of discount in sample superstore. You can see which segment, product sub-category, or even customer that demand the big discount, and eliminate the profit of the sales.
 
+![](https://github.com/mmalik17/dataviz/blob/main/images/Renewable-Energy.jpeg)
+
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/Courseracourse-Discountoverviewofsuperstoredataset/SecondTrial)
 
 ## Dashboard 3: Startup Overview Around the World: Growth and Distribution
