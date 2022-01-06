@@ -6,7 +6,7 @@ Lorem ipsum dolor color:
 - Lorem ipsum dolor color
 - Lorem ipsum dolor color
 - Lorem ipsum dolor color
-- 123
+- 123456
 
 ## Project 2: ABCDEF
 Lorem ipsum dolor color:
