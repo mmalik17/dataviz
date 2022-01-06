@@ -11,6 +11,8 @@ This visualization dashboard is created based on the data from Ember climate org
 
 Beside showing the data over Europe, I also provide the data of trend and portion in every single country in Europe. To access that, just click the dropdown between the word ‘Area’. 
 
+<a href="https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2" class="button">View</a>
+
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2)
 
 
