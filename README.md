@@ -13,11 +13,7 @@ Beside showing the data over Europe, I also provide the data of trend and portio
 
 | Original Dashboard | Modified Dashboard |
 | -------------------| ------------------ |
-| <div>
-<img src="https://github.com/mmalik17/dataviz/blob/main/images/European%20Renewable%20Energy%20Original%20Viz.png" width="300" height="200" align='right'>
-</div> |        <div>
-<img src="https://github.com/mmalik17/dataviz/blob/main/images/European%20Renewable%20Energy%20Modified%20Viz.png" width="300" height="200" align='right'>
-</div>     |
+| Under construction | Under construction |
 
 
 [View Dashboard](https://public.tableau.com/app/profile/muchammad.malik/viz/EnergytransitioninEuropefinaledit/Dashboard2)
