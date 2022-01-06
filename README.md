@@ -2,7 +2,8 @@
 **with Tableau Public Software**
 
 ## Dashboard 1: Renewable Energy Overview in Europe
-![](https://github.com/mmalik17/dataviz/blob/main/images/Renewable-Energy.jpeg)
+
+<img src="https://github.com/mmalik17/dataviz/blob/main/images/Renewable-Energy.jpeg" width="200" height="100">
 
 This visualization dashboard is created based on the data from Ember climate organization that I found from MakeOver Monday challenge. It shows the trend of renewable energy generation in Europe, country ranking, and portion of energy source generation. The main insight is during 2010-2020, the portion/share of renewable energy generation in Europe is getting higher while the fossil fuel generation is getting lower. 
 
